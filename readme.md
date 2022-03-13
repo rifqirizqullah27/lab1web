@@ -38,9 +38,6 @@ html
 <p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
 
 
-* Maka hasilnya akan seperti berikut.
-![paragraf](paragraf.png)
-
 ## Langkah 3
 * Menambahkan judul menggunakan Tag Heading
 html
@@ -49,10 +46,6 @@ html
 
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
-
-
-* Maka hasilnya akan seperti berikut.
-![heading](judul.png)
 
 ## Langkah 4
 * Memformat Teks

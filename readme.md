@@ -64,7 +64,7 @@ html
 <h3>Menambahkan Gambar</h3>
 
 <!-- menambahkan gambar pada dokumen -->
-<img src="Logo_UPB.png" width="200" title="Logo Univeritas Pelita Bangsa">
+<img src="logo_upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
 
 ## Langkah 6
 * Menambahkan hyperlink

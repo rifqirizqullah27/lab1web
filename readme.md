@@ -90,7 +90,7 @@ html
       <hr>
 
 * Maka hasilnya akan seperti berikut.
-![hyper_link](link.png)
+![hyper_link](2.png)
 
 * Kemudian kita membuat lab1_halaman2.html
 

@@ -102,9 +102,6 @@ html
 </html>
 
 
-* Maka hasilnya akan seperti berikut.
-![Hyper_link2](halam2.png)
-
 # Jawab Pertanyaan Berikut
 
 1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?

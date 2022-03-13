@@ -64,9 +64,6 @@ html
 | `<i>` | Membuat teks italic |
 | `<u>` | Membuat teks underline |
 
-* Maka hasilnya akan seperti berikut.
-![format_text](format_text.png)
-
 ## Langkah 5
 * Menyisipkan Gambar
 html
@@ -75,9 +72,6 @@ html
 
 <!-- menambahkan gambar pada dokumen -->
 <img src="Logo_UPB.png" width="200" title="Logo Univeritas Pelita Bangsa">
-
-* Maka hasilnya akan seperti berikut.
-![image](Image.png)
 
 ## Langkah 6
 * Menambahkan hyperlink
